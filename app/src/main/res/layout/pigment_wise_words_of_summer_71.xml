@@ -1,0 +1,41 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@color/brilliance_seasonal_wisdom_56_alpha"
+android:padding="4dp">
+<ImageView
+android:id="@+id/background_image" 
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:scaleType="centerCrop" 
+android:src="@drawable/luminosity_summer_sayings_32" /> 
+<LinearLayout
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_centerVertical="true"
+android:layout_margin="9dp"
+android:background="@color/brilliance_seasonal_wisdom_56_alpha"
+android:orientation="vertical"
+android:padding="7dp">
+<TextView
+android:id="@+id/seasonalAdagesInterceptorP"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="@string/tone_seasonal_adages_98"
+android:fontFamily="serif"
+android:textColor="@color/pigment_seasonal_adages_27"
+android:textAllCaps="true"
+android:letterSpacing="0.2"
+android:gravity="center"
+android:padding="@dimen/bold_seasonal_wisdom_39"
+/>
+<Button
+android:id="@+id/summerSayingsImplS"
+android:layout_width="match_parent"
+android:layout_height="wrap_content"
+android:layout_below="@id/seasonalAdagesInterceptorP"
+android:layout_centerHorizontal="true"
+android:layout_marginTop="20dp"
+android:text="@string/color_summer_sayings_87" />
+</LinearLayout>
+</RelativeLayout>
