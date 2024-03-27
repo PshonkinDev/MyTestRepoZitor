@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<color name="purple_200">#FFBB86FC</color>
+<color name="purple_500">#FF6200EE</color>
+<color name="purple_700">#FF3700B3</color>
+<color name="teal_200">#FF03DAC5</color>
+<color name="teal_700">#FF018786</color>
+<color name="black">#FF000000</color>
+<color name="white">#FFFFFFFF</color>
+ <!-- Status bar color. -->
+<color name="dullness_seasonal_wisdom_97">#d195cf6a</color>
+<!-- Action Bar -->
+<color name="pastel_summer_sayings_32">#9bc35e</color>
+<!-- Navigation Bar Color -->
+<color name="iridescence_summer_sayings_38">#abd062</color>
+<!--Main Color Background All App-->
+<color name="brilliance_seasonal_wisdom_56">#acd161</color>
+<!--Main Color Background All App Alpha-->
+<color name="brilliance_seasonal_wisdom_56_alpha">#c49ad069</color>
+<!--Main Color Text All App-->
+<color name="pigment_seasonal_adages_27">#dc140b13</color>
+<!--Button Color Background All App-->
+<color name="dullness_wise_words_of_summer_79">#fdaf1b</color>
+<!--Button Color Background Text All App-->
+<color name="dullness_summer_sayings_35">#f01b1313</color>
+</resources>
