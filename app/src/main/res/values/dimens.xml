@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<dimen name="monochrome_wise_words_of_summer_50">2</dimen>   <!--{1-2}-->
+<dimen name="transparency_wise_words_of_summer_69">3sp</dimen> <!--{1-5}sp-->
+<dimen name="brilliance_seasonal_wisdom_80">12sp</dimen> <!--{10-15}sp-->
+<dimen name="transparency_seasonal_adages_73">15sp</dimen> <!--{15-20}sp-->
+<dimen name="hue_seasonal_wisdom_27">19sp</dimen> <!--{16-20}sp-->
+<dimen name="bold_seasonal_wisdom_39">17dp</dimen> <!--{15-20}dp-->
+</resources>
