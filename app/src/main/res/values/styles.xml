@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="ScenarioWiseWordsOfSummer" parent="Widget.MaterialComponents.Button">
+<!-- All Button Background Color -->
+<item name="backgroundTint">@color/dullness_wise_words_of_summer_79</item>
+<!-- All Button Form-->
+<item name="android:background">@drawable/transparency_seasonal_wisdom_86</item>
+<!-- All Button Text Color -->
+<item name="android:textColor">@color/dullness_summer_sayings_35</item>
+<!-- All Button Text Font Family-->
+<item name="android:fontFamily">@font/vividness_seasonal_adages_52</item>
+<!-- All Button Text Size-->
+<item name="android:textSize">@dimen/brilliance_seasonal_wisdom_80</item>
+<!-- ?????????? TemplateFontStyle-->
+<!-- <item name="android:textAppearance">@style/InspirationSummerSayings</item>-->
+</style>
+<style name="InspirationSummerSayings" parent="TextAppearance.AppCompat">
+<!-- android:fontFamily="@font/pigment_summer_sayings_46"-->
+<item name="android:fontFamily">@font/pigment_summer_sayings_46</item>
+<!-- android:textColor="@color/pigment_seasonal_adages_27"-->
+<item name="android:textColor">@color/pigment_seasonal_adages_27</item>
+<!-- android:shadowColor="#80000000"-->
+<item name="android:shadowColor">#80000000</item>
+<!-- android:shadowDx="20"-->
+<item name="android:shadowDx">20</item>
+<!-- android:shadowDy="4"-->
+<item name="android:shadowDy">4</item>
+<!-- android:shadowRadius="5"-->
+<item name="android:shadowRadius">5</item>
+<!-- bold-?????? italic-?????????, normal-??????? ????? ??????.-->
+<!-- android:textStyle="bold"-->
+<item name="android:textStyle">normal</item>
+<!-- android:textSize="18sp"-->
+<item name="android:textSize">@dimen/transparency_seasonal_adages_73</item>
+<!-- android:textAllCaps="true" true false -->
+<item name="android:textAllCaps">true</item>
+<!-- android:lineSpacingExtra="8sp" ??????????? ?????????? ????? ???????? ??????-->
+<item name="android:lineSpacingExtra">2sp</item>
+<!-- android:letterSpacing="0.1" ??????????? ?????????? ????? ????????? ??????-->
+<item name="android:letterSpacing">0.1</item>
+</style>
+</resources>
